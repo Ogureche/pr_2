@@ -1,4 +1,7 @@
-# pr_2
+# pr_2(Выполнил студент группы ЭФБО-02-22 Михальков Юрий Виленович)
+![image](https://github.com/user-attachments/assets/3df15cc4-ca59-4f90-be61-4806488821e1)
+![image](https://github.com/user-attachments/assets/53dda4e4-a917-4ded-8e63-081369c4f37d)
+
 
 A new Flutter project.
 
